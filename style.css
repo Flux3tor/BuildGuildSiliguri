@@ -604,17 +604,6 @@ nav {
   color: var(--bp-warning);
 }
 
-#organizers {
-  padding: 96px 24px;
-  align-items: center;
-}
-
-#organizers .section-inner {
-  max-width: 1400px;
-  margin: 0 auto;
-  align-items: center;
-}
-
 .org-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
